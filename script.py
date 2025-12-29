@@ -46,8 +46,6 @@ def show_start_credit():
 ┃┓┓╋┣┫┓┏┣┓  ┃ ┏┓┏┳┓┏┳┓┓╋  ┃ ┏┓┣┓
 ┗┛┗┗┛┗┗┻┗┛  ┗┛┗┛┛┗┗┛┗┗┗┗  ┗┛┗┻┗┛                       
 
-Created by Aura Farmer
-GitHub: https://github.com/aurafarmerone
 ----------------------------------------
 """)
 
