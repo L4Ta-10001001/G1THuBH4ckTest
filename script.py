@@ -7,11 +7,6 @@ from datetime import datetime, timedelta
 
 # ============================================
 # GitHub Contribution Graph Hack
-#
-# Created by Aura Farmer
-# GitHub: https://github.com/aurafarmerone
-#
-# If you like this project, give it a ⭐
 # ============================================
 
 PATTERN_FILE = "pattern.json"
@@ -72,11 +67,6 @@ def show_end_credit():
 ☑️ The Timeline Has Changed.
 ☑️ Success! Pretend This Was Hard.           
 
-----------------------------------------
-⭐ If you like this project, give it a star on GitHub!
-👉 https://github.com/aurafarmerone/github-contribution-graph-hack
-
-Made with ❤️  by Aura Farmer
 ----------------------------------------
 """)
 
